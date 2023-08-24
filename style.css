@@ -1,0 +1,23 @@
+body{
+    background: url(valorant);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+p{
+
+    font-size: 20px;
+}
+
+.titulo{
+    text-align: center;
+    color: rgb(230, 15, 15);
+}
+
+.texto{
+    margin-left: 30%;
+    color: rgb(66, 6, 177);
+}
